@@ -28,9 +28,6 @@ The motivation of this project is to:
 - Be able to pull and merge information from multiple API endpoints
 - Be able to write tests that mock API responses
 
-## Special Instructions
+## Library
 
-User must import the following libraries:
-
-- requests
-- requests-mock
+`Requests` HTTP Library must be imported to run this program
