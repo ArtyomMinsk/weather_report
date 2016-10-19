@@ -28,6 +28,10 @@ The motivation of this project is to:
 - Be able to pull and merge information from multiple API endpoints
 - Be able to write tests that mock API responses
 
+## Installation
+
+In order to obtain the correct versions of everything needed to run this program, you will have to `pip install -r requirements.txt`.
+
 ## Library
 
 `Requests` HTTP Library must be imported to run this program
